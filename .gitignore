@@ -1,0 +1,42 @@
+# Build directories
+build/
+debug/
+release/
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.so
+*.a
+*.dll
+
+# CUDA specific
+*.i
+*.ii
+*.gpu
+*.ptx
+*.cubin
+*.fatbin
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln.docstates
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+cmake-build-*/
+
+# Temporary files
+*~
+*.swp
+*.bak
