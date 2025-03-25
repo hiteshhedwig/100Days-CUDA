@@ -2,6 +2,16 @@
 
 This repository contains my journey of learning CUDA over 100 days.
 
+## Run 
+
+cmake ..
+make
+./days/day001/day001_vector_add
+
+OR
+
+./run.sh <Daynumber>
+
 ## Project Structure
 
 - `common/`: Common utility code used across multiple days
