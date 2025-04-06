@@ -3,6 +3,7 @@
 
 // Initialize array with random values
 void initializeArray(float *arr, int size);
+void initializeMatrix(float **mat, int size) ;
 
 // Verify results of vector addition
 bool verifyVectorAdd(const float *A, const float *B, const float *C, int size);
