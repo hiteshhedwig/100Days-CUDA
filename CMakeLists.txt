@@ -17,9 +17,11 @@ add_subdirectory(common)
 
 # Add days subdirectories
 add_subdirectory(days/day001)
-# Uncomment as you progress:
 add_subdirectory(days/day002)
-# ...
+add_subdirectory(days/day003)
+add_subdirectory(days/day004)
+add_subdirectory(days/day005)
+
 
 # Add projects subdirectory
 # Uncomment when you start working on projects:

@@ -1,0 +1,5 @@
+add_executable(day003_matrix_addition matrix_addition.cu)
+target_link_libraries(day003_matrix_addition cuda_utils)
+set_target_properties(day003_matrix_addition PROPERTIES
+    CUDA_SEPARABLE_COMPILATION ON
+)

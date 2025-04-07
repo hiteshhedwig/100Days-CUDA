@@ -7,5 +7,7 @@ void initializeMatrix(float **mat, int size) ;
 
 // Verify results of vector addition
 bool verifyVectorAdd(const float *A, const float *B, const float *C, int size);
+void printLinearMatrix(float *linearMatrix, int size) ;
+void printMatrix(float **matrix, int size) ;
 
 #endif // DATA_UTILS_CUH
