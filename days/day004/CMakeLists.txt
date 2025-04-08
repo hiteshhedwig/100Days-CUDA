@@ -1,0 +1,5 @@
+add_executable(day004_matrix_scalar matrix_scalar.cu)
+target_link_libraries(day004_matrix_scalar cuda_utils)
+set_target_properties(day004_matrix_scalar PROPERTIES
+    CUDA_SEPARABLE_COMPILATION ON
+)
