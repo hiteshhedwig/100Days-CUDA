@@ -35,12 +35,12 @@ OR
 ## Comparison charts
 ### Day-3
 
-<img src="days/day003/execution_time_comparison.png" alt="Execution time comparison" width="200"/>
+<img src="days/day003/execution_time_comparison.png" alt="Execution time comparison" width="600"/>
 
-<img src="days/day003/speedup_comparison.png" alt="Speed comparison" width="200"/>
+<img src="days/day003/speedup_comparison.png" alt="Speed comparison" width="600"/>
 
 ### Day-4
 
-<img src="days/day004/execution_time_comparison.png" alt="Execution time comparison" width="200"/>
+<img src="days/day004/execution_time_comparison.png" alt="Execution time comparison" width="600"/>
 
-<img src="days/day004/speedup_comparison.png" alt="Speed comparison" width="200"/>
+<img src="days/day004/speedup_comparison.png" alt="Speed comparison" width="600"/>
