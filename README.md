@@ -26,6 +26,21 @@ OR
 | Day | Topic | Status |
 |-----|-------|--------|
 | 001 | Vector Addition | Completed |
-| 002 | Matrix Multiplication | Planned |
-| ... | ... | ... |
+| 002 | Matrix Multiplication | Completed |
+| 003 | Matrix Addition | Completed |
+| 004 | Matrix Scalar Multiplication | Completed |
+| 005 | Matrix Transpose | Planned |
 
+
+## Comparison charts
+### Day-3
+
+<img src="days/day003/execution_time_comparison.png" alt="Execution time comparison" width="200"/>
+
+<img src="days/day003/speedup_comparison.png" alt="Speed comparison" width="200"/>
+
+### Day-4
+
+<img src="days/day004/execution_time_comparison.png" alt="Execution time comparison" width="200"/>
+
+<img src="days/day004/speedup_comparison.png" alt="Speed comparison" width="200"/>
