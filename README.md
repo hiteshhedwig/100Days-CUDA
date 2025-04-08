@@ -10,7 +10,10 @@ make
 
 OR
 
-./run.sh <Daynumber>
+./run.sh Daynumber
+
+For example for running day-02 :
+./run.sh 2
 
 ## Project Structure
 
