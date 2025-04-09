@@ -1,0 +1,5 @@
+add_executable(day005_matrix_transpose matrix_transpose.cu)
+target_link_libraries(day005_matrix_transpose cuda_utils)
+set_target_properties(day005_matrix_transpose PROPERTIES
+    CUDA_SEPARABLE_COMPILATION ON
+)

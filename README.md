@@ -33,7 +33,8 @@ For example for running day-02 :
 | 002 | Matrix Multiplication | Completed |
 | 003 | Matrix Addition | Completed |
 | 004 | Matrix Scalar Multiplication | Completed |
-| 005 | Matrix Transpose | Planned |
+| 005 | Matrix Transpose | Completed |
+| 006 | Matrix Vector Multiplication | Completed |
 
 
 ## Comparison charts
@@ -48,3 +49,9 @@ For example for running day-02 :
 <img src="days/day004/execution_time_comparison.png" alt="Execution time comparison" width="600"/>
 
 <img src="days/day004/speedup_comparison.png" alt="Speed comparison" width="600"/>
+
+### Day-5
+
+<img src="days/day005/execution_time_comparison.png" alt="Execution time comparison" width="600"/>
+
+<img src="days/day005/speedup_comparison.png" alt="Speed comparison" width="600"/>
