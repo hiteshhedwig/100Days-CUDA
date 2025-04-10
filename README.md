@@ -55,3 +55,10 @@ For example for running day-02 :
 <img src="days/day005/execution_time_comparison.png" alt="Execution time comparison" width="600"/>
 
 <img src="days/day005/speedup_comparison.png" alt="Speed comparison" width="600"/>
+
+
+### Day-6
+
+<img src="days/day006/execution_time_comparison.png" alt="Execution time comparison" width="600"/>
+
+<img src="days/day006/speedup_comparison.png" alt="Speed comparison" width="600"/>

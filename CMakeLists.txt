@@ -21,6 +21,7 @@ add_subdirectory(days/day002)
 add_subdirectory(days/day003)
 add_subdirectory(days/day004)
 add_subdirectory(days/day005)
+add_subdirectory(days/day006)
 
 
 # Add projects subdirectory
