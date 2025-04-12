@@ -36,6 +36,7 @@ For example for running day-02 :
 | 005 | Matrix Transpose | Completed |
 | 006 | Matrix Vector Multiplication | Completed |
 | 007 | (Optimized) Matrix Vector Multiplication | Completed |
+| 008 | (Optimized) Matrix Matrix Multiplication | TODO |
 
 
 ## Comparison charts
