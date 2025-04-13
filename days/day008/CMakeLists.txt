@@ -1,0 +1,5 @@
+add_executable(day008_matrix_mul matrix_multiplication_opt.cu)
+target_link_libraries(day008_matrix_mul cuda_utils)
+set_target_properties(day008_matrix_mul PROPERTIES
+    CUDA_SEPARABLE_COMPILATION ON
+)
