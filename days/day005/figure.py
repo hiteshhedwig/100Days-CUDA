@@ -13,7 +13,7 @@ def combine_results():
     })
     
     # Load PyTorch benchmark results
-    pytorch_df = pd.read_csv('build/pytorch_benchmark_matrix_transpose_results.csv')
+    pytorch_df = pd.read_csv('build/pytorch_benchmark_matrix_transpose_forced_results.csv')
     
     # Merge the dataframes
     combined = pd.merge(cuda_df, pytorch_df, on=['MatrixSize', 'TotalElements'])

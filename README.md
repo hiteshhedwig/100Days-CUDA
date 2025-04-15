@@ -36,7 +36,7 @@ For example for running day-02 :
 | 005 | Matrix Transpose | Completed |
 | 006 | Matrix Vector Multiplication | Completed |
 | 007 | (Optimized) Matrix Vector Multiplication | Completed |
-| 008 | (Optimized) Matrix Matrix Multiplication | TODO |
+| 008 | (Optimized) Matrix Transpose | Completed |
 
 
 ## Comparison charts
@@ -73,3 +73,11 @@ For example for running day-02 :
 <img src="days/day007/execution_time_comparison.png" alt="Execution time comparison" width="600"/>
 
 <img src="days/day007/speedup_comparison.png" alt="Speed comparison" width="600"/>
+
+### Day-8
+
+#### Same as day005 but optimized with shared memory concept.
+
+<img src="days/day008/execution_time_comparison.png" alt="Execution time comparison" width="600"/>
+
+<img src="days/day008/speedup_comparison.png" alt="Speed comparison" width="600"/>

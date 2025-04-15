@@ -15,7 +15,6 @@ def benchmark_pytorch(size, iterations=10):
     start_time = time.time()
     for _ in range(iterations):
         c_cpu = torch.matmul(a_cpu, b_cpu)  # Matrix-vector multiplication
-        torch.cuda.synchronize()  # For fair comparison
     cpu_time = (time.time() - start_time) * 1000 / iterations  # Convert to ms
 
     # Move to GPU and measure time
