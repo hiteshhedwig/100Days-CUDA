@@ -81,3 +81,10 @@ For example for running day-02 :
 <img src="days/day008/execution_time_comparison.png" alt="Execution time comparison" width="600"/>
 
 <img src="days/day008/speedup_comparison.png" alt="Speed comparison" width="600"/>
+
+### Day-9
+
+#### optimized with shared memory concept.
+
+<img src="days/day008/execution_time_comparison.png" alt="Execution time comparison" width="600"/>
+
